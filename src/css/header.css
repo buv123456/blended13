@@ -19,3 +19,8 @@
 .nav-link:focus {
   color: #747bff;
 }
+.box {
+  width: 200px;
+  height: 200px;
+  background-color: #af3c3c;
+}
